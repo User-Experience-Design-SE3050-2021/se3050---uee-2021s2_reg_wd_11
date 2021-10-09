@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="43.2365" y1="0.2365" x2="125.026077" y2="82.026077" gradientTransform="matrix(0.139535,0,0,0.139535,0,0)">
+<stop offset="0.237" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.85" style="stop-color:rgb(92.54902%,94.117647%,94.509804%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="43.2365" y1="43.2365" x2="125.026077" y2="125.026077" gradientTransform="matrix(0.139535,0,0,0.139535,0,0)">
+<stop offset="0.237" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.85" style="stop-color:rgb(92.54902%,94.117647%,94.509804%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="43.2365" y1="86.236504" x2="125.026077" y2="168.026077" gradientTransform="matrix(0.139535,0,0,0.139535,0,0)">
+<stop offset="0.237" style="stop-color:rgb(100%,100%,100%);stop-opacity:1;"/>
+<stop offset="0.85" style="stop-color:rgb(92.54902%,94.117647%,94.509804%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface172274540">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 21.5 7.5 L 2.5 7.5 C 1.949219 7.5 1.5 7.050781 1.5 6.5 L 1.5 5.5 C 1.5 4.949219 1.949219 4.5 2.5 4.5 L 21.5 4.5 C 22.050781 4.5 22.5 4.949219 22.5 5.5 L 22.5 6.5 C 22.5 7.050781 22.050781 7.5 21.5 7.5 Z M 21.5 7.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 21.5 13.5 L 2.5 13.5 C 1.949219 13.5 1.5 13.050781 1.5 12.5 L 1.5 11.5 C 1.5 10.949219 1.949219 10.5 2.5 10.5 L 21.5 10.5 C 22.050781 10.5 22.5 10.949219 22.5 11.5 L 22.5 12.5 C 22.5 13.050781 22.050781 13.5 21.5 13.5 Z M 21.5 13.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 21.5 19.5 L 2.5 19.5 C 1.949219 19.5 1.5 19.050781 1.5 18.5 L 1.5 17.5 C 1.5 16.949219 1.949219 16.5 2.5 16.5 L 21.5 16.5 C 22.050781 16.5 22.5 16.949219 22.5 17.5 L 22.5 18.5 C 22.5 19.050781 22.050781 19.5 21.5 19.5 Z M 21.5 19.5 "/>
+</g>
+</svg>
